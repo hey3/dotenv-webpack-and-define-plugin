@@ -1,0 +1,27 @@
+{
+  "name": "dotenv-webpack-and-define-plugin",
+  "version": "1.0.0",
+  "description": "Understanding the dotenv-webpack and DefinePlugin",
+  "main": "index.js",
+  "repository": "https://github.com/hey3/dotenv-webpack-and-define-plugin.git",
+  "author": "hey3",
+  "keywords": [
+    "webpack",
+    "dotenv-webpack",
+    "defineplugin"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hey3/dotenv-webpack-and-define-plugin/issues"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^4.3.1"
+  },
+  "devDependencies": {
+    "dotenv-webpack": "^6.0.0"
+  }
+}
